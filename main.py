@@ -1,4 +1,3 @@
-# PRJ-05: Password Strength Evaluator
 import random
 import string
 
