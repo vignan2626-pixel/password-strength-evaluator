@@ -1,0 +1,13 @@
+[Running] python -u "c:\Users\vignan\Desktop\password-strength-evaluator\main.py"
+
+[Done] exited with code=0 in 0.318 seconds
+
+[Running] python -u "c:\Users\vignan\Desktop\password-strength-evaluator\main.py"
+Traceback (most recent call last):
+  File "c:\Users\vignan\Desktop\password-strength-evaluator\main.py", line 57, in <module>
+    if _name_ == "_main_":
+       ^^^^^^
+NameError: name '_name_' is not defined. Did you mean: '__name__'?
+
+[Done] exited with code=1 in 0.954 seconds
+
